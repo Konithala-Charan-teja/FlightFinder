@@ -1,0 +1,18 @@
+flightfinder/
+│
+├── client/                # React Frontend
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   └── App.js
+│
+├── server/                # Node.js Backend
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   └── server.js
+│
+└── README.md
